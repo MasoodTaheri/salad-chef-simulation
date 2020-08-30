@@ -113,10 +113,7 @@ public class movement : MonoBehaviour
                     }
                 }
 
-                if (TouchObj.tag == Consts.TAG_Client)
-                {
-                    TouchObj.GetComponent<Client>().OfferSalad(salad, this);
-                }
+          
 
                 if (TouchObj.tag == Consts.TAG_Trash)
                 {
@@ -153,6 +150,10 @@ public class movement : MonoBehaviour
                         Basket.Add(veg);
                         extraplate.RemoveVegetable();
                     }
+                }
+                if (TouchObj.tag == Consts.TAG_Client)
+                {
+                    TouchObj.GetComponent<Client>().OfferSalad(salad, this);
                 }
             }
         }

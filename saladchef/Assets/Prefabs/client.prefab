@@ -574,7 +574,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Label: {fileID: 830648494918327417}
   TimeBar: {fileID: 830648495380781252}
-  timeofeach: 25
+  timeofeach: 45
   TotalTime: 0
   RemainTime: 0
   SaladRecipe: 
