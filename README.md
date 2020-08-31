@@ -2,10 +2,6 @@
  a “programmer-art” version of a salad chef simulation in Unity
 
 
-# salad-chef-simulation
- a “programmer-art” version of a salad chef simulation in Unity
-
-
 Powers
 
     Speed - Increases speed of player.
