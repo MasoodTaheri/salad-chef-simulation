@@ -1,4 +1,4 @@
-# salad-chef-simulation
+# salad chef simulation
  a “programmer-art” version of a salad chef simulation in Unity
 
 
