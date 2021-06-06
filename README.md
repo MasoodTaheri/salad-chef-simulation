@@ -26,3 +26,8 @@ Player 2
 2-Debug more
 
 3-Implement by some Design Patterns like Observer or factory
+
+
+
+https://user-images.githubusercontent.com/7465294/120940727-bb9dbf80-c72f-11eb-8f3a-2e56a96a0056.mp4
+
